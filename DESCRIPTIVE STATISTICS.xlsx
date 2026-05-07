@@ -1,0 +1,21 @@
+Price,Age at time of purchase,Area (ft.),Deal satisfaction,Gender,Type of property
+200000,25,1200,4,Male,Apartment
+250000,30,1500,5,Female,House
+180000,22,1100,3,Male,Apartment
+300000,35,2000,5,Female,Villa
+220000,28,1300,4,Male,Apartment
+270000,32,1700,5,Female,House
+190000,24,1150,3,Male,Apartment
+310000,40,2100,5,Female,Villa
+230000,29,1400,4,Male,House
+260000,31,1600,4,Female,Apartment
+280000,34,1800,5,Male,Villa
+210000,27,1250,3,Female,Apartment
+240000,33,1550,4,Male,House
+290000,36,1900,5,Female,Villa
+175000,23,1050,2,Male,Apartment
+320000,42,2200,5,Female,Villa
+205000,26,1350,3,Male,House
+255000,30,1650,4,Female,Apartment
+225000,28,1450,4,Male,House
+275000,35,1750,5,Female,Villa
